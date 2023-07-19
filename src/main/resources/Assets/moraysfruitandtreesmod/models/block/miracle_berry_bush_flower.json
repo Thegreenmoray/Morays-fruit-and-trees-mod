@@ -1,0 +1,10 @@
+{
+
+  "parent": "minecraft:block/cross",
+
+  "textures": {
+    "cross": "moraysfruitandtreesmod:block/miracle_berry_bush_flower"
+  }
+
+
+}

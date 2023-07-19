@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "moraysfruitandtreesmod:miracle_berry"
+    }
+  ],
+  "result": {
+    "item": "moraysfruitandtreesmod:miracle_seed"
+  }
+}

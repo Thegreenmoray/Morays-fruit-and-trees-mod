@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "moraysfruitandtreesmod:block/miracle_berry_bush_berry"
+  }
+}
